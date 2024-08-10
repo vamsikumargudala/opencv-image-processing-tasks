@@ -104,6 +104,3 @@ cv2.destroyAllWindows()
 This guide provides basic instructions for creating, manipulating, and combining images using OpenCV and NumPy. These tasks cover fundamental operations that can be expanded for more complex image processing projects.
 
 Thank you for exploring image processing with OpenCV and NumPy!
-```
-
-Feel free to adjust the content or formatting as needed for your specific project or audience!
